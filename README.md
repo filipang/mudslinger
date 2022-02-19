@@ -1,5 +1,6 @@
 # mudslinger
 Real time tactics game written in C with SDL2.
 
-Authors:
-Filip
+----Collaborators----
+    Radu Ionut Ciobanu
+	Filip Angheluta
